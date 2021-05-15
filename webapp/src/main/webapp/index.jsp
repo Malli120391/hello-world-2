@@ -176,10 +176,10 @@ input[type=submit]:hover {
 <div class="bottom-container">
   <div class="row">
     <div class="col">
-      <a href="#" style="color:white" class="btn">Sign up Changed Poll SCM</a>
+      <a href="#" style="color:white" class="btn">Sign upPoll SCM</a>
     </div>
     <div class="col">
-      <a href="#" style="color:white" class="btn">Forgot password? chaged Poll SCM</a>
+      <a href="#" style="color:white" class="btn">Forgot password?Poll SCM</a>
     </div>
   </div>
 </div>
