@@ -179,7 +179,7 @@ input[type=submit]:hover {
       <a href="#" style="color:white" class="btn">Sign up Changed</a>
     </div>
     <div class="col">
-      <a href="#" style="color:white" class="btn">Forgot password?</a>
+      <a href="#" style="color:white" class="btn">Forgot password? chaged</a>
     </div>
   </div>
 </div>
